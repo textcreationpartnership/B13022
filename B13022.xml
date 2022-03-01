@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. An abstract of the seuerall heads and branches, for which His Maiesties commissioners, by vertue of His Maiesties commission of grace, bearing date the three and twentieth day of Ianuary last past, haue power to compound with such as shall desire the same.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1630</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B13022</idno>
+            <idno type="STC">STC 8951</idno>
+            <idno type="STC">Interim Tract Supplement Guide 506.h.11[15]</idno>
+            <idno type="EEBO-CITATION">99892458</idno>
+            <idno type="PROQUEST">ocm99892458</idno>
+            <idno type="VID">185604</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B13022)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185604)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C2:2[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. An abstract of the seuerall heads and branches, for which His Maiesties commissioners, by vertue of His Maiesties commission of grace, bearing date the three and twentieth day of Ianuary last past, haue power to compound with such as shall desire the same.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>2 sheets.   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, printer to the Kings most excellent Maiestie,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>M.DC.XXX. [1630]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Steele notation: Tithes His 2) vnto Com-.</note>
+                  <note>Issued with the proclamation of 27 May 1630.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Titles of honor and nobility --  Law and legislation --  Great Britain --  Early works to 1800.</term>
+               <term>Nobility --  Law and legislation --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2014-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="abstract">
+            <pb facs="tcp:185604:1" rendition="simple:additions"/>
+            <head>¶ By the King.</head>
+            <head>
+               <g ref="char:leaf">❧</g> An Abſtract of the ſeuerall Heads and Bran<g ref="char:EOLhyphen"/>ches, for which His Maieſties Commiſſioners, by vertue of His Maieſties Commiſsion of Grace, bearing date the three and twentieth day of Ianuary laſt paſt, haue power to Com<g ref="char:EOLhyphen"/>pound with ſuch as ſhall deſire the ſame.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Or all Mannours, Lands, Tenements, Waſtes, Commons, Tithes ariſing aſwell without Pariſhes as within Pariſhes, Wards, Marri<g ref="char:EOLhyphen"/>ages, Liberties, Priuiledges, &amp; other Hereditaments, lying, being and ariſing within, neere, or adioyning vnto any of his Maieſties Man<g ref="char:EOLhyphen"/>nours, Forreſts, Parkes, Chaſes and elſewhere, as well within the Surueigh of His Maieſties Exchequer, as within the Surueigh of His Duchie of Lancaſter, or County Palatine of Lancaſter, Duchie of Cornwall, and County Palatine of Cheſter, which are held and enioy<g ref="char:EOLhyphen"/>ed vnder colour of ſome defectiue, voyd, or inſufficient Grant, or vn<g ref="char:EOLhyphen"/>der ſome Letters Patents of Concealements, or otherwiſe meere<g ref="char:EOLhyphen"/>ly are Intruded vpon, and vſurped without any Grant therof from His Maieſty, or any of His Predeceſſours.</p>
+            <p>For all Mannours, Lands, Tenements, and other Hereditaments granted Intayle, out of the Crowne, whereof the Eſtate tayle is not ſpent, and yet the ſaid Grants haue been inſuf<g ref="char:EOLhyphen"/>ficiently granted; Or which ought to haue deſcended vpon the Kings Perſon, and yet haue likewiſe been inſufficiently granted; Or whereof the Eſtate tayle is ſpent and determined; Or for all Remainders or Reuerſions depending vpon Eſtates Tayles, except ſuch Eſtates as Sir <hi>William Haydon</hi> had power to compound for.</p>
+            <p>For all Meſſuages, and Cottages built, Incroached and made within, or adioyning vnto any Citie, Towne or Hamlet, or vpon the Common high wayes, Streetes, Paſſages, Lanes, Riuers, Sewers, Commons and Waſtes, with all other Incroachments, Aſſert Lands, Im<g ref="char:EOLhyphen"/>prouements, and Incloſures of Commons, Breckes, Fellets, and ſuch other Incloſures, Waſte grounds, Moores, or other Heathy Downes, Incloſed or not Incloſed, being His Ma<g ref="char:EOLhyphen"/>ieſties Inheritance, either in the right of his Crowne of England, or otherwiſe lying and be<g ref="char:EOLhyphen"/>ing within, neere, or adioyning vnto any of His Maieſties Mannours, Forreſts, Parkes, Cha<g ref="char:EOLhyphen"/>ſes, or elſewhere.</p>
+            <p>For all Lands, Mariſhes, or other grounds (with the Tenements thereupon built) here<g ref="char:EOLhyphen"/>tofore recouered, or deſerted from or by the Sea, or now ſurrounded with the Sea; Or which hereafter may, or ſhall be Recouered and deſerted by or from the Sea.</p>
+            <p>For all Cuſtodies, and all Mannours, Lands and Houſes granted or committed (to any Corporation, or other perſon or perſons, Bodies politique or corporate) to Cuſtodie, with all ſuch Mannours, Lands, Tenements, and other Hereditaments formerly let by Leaſes, and the Leaſes expired, or otherwiſe determined, whereby the Inheritances of the ſaid Premiſ<g ref="char:EOLhyphen"/>ſes doe remaine, and the Reuerſions thereof are come vnto the Crowne; And yet without any Iuſt Title thereunto, deteined from the Crowne.</p>
+            <p>For all Charters of Incorporations, which are either body or defectiue, with all Leaſes and Grants of Offices; Or vſage of Offices by vſurpation, by Corporations, Cities, Boroughs and Townes; Or by any other perſon or perſons which are forfeited or determined in Law, by non-vſage, or miſuſage thereof; Or by exceeding the extents and limits of their ſaid Grants; Or by the vſage thereof without any Grant thereof at all from the Crowne.</p>
+            <pb facs="tcp:185604:2"/>
+            <p>All Mannors, Lands, Tenements and other Hereditaments which ought to come vnto His Maieſtie, by any maner of Eſcheate or forfeiture whatſoeuer; Or which might otherwiſe come vnto His Maieſtie by any which are Aliens borne, all Felons goods, all Goods, Chat<g ref="char:EOLhyphen"/>tels and Credits of Felons <hi>de ſe</hi> Fugitiues and perſons Out-lawed, Deodandes, Wayſes, Eſtrayes, Reliefes, Heriots, and other Perqueſites of Courts, with all Tolles of all kindes vſurped and vniuſtly withholden from the Crowne.</p>
+            <p>For all Woods, Vnder Woods and Wood-grounds wrongfully withholden, intruded vp<g ref="char:EOLhyphen"/>on, incroached or waſted to His Maieſties preiudice with all the dammages which ought to be anſwered vnto His Maieſtie or His Predeceſſors for the ſame.</p>
+            <p>For all Rents, Aunuities, Quit Rents, Annuall payments and other yeerely ſumme and ſummes of money due vnto His Maieſtie out of any Mannor, Lands, Tenements and other Hereditaments by any Corporations, or other Burrough-townes, or any other Perſon or Perſons, bodies Politique or Corporate, which haue not beene duely anſwered by them vnto the Crowne: With all Mannors, Lands, Tenements, and other Hereditaments which ought to bee in charge, and are not, but ſome Fee-farme Rent onely anſwered in lieu of the Land; Or where both the Lands and Rents ſtand in Charge, and the Rents anſwe<g ref="char:EOLhyphen"/>red, and yet the parties inioying the ſaid Lands, neuer had any Graunt thereof from the Crowne, or where the Lands ſtand in Charge as Lands, and yet the Rents ſtand not in Charge, nor yet anſwered vnto the Crowne, by them that pretend intereſt in the ſaid Lands.</p>
+            <p>The foreſaid Commiſſioners to Bargaine, Graunt and Sell any of the Premiſſes (which are not ſetled by the within named Act) in Fee-ſimple, Fee-Farme, Fee-Taile for terme of life, liues, or yeeres vnto ſuch perſon and perſons as are the preſent poſſeſſors of the ſaid Premiſſes; Or otherwiſe to make vnto them ſuch o<g ref="char:EOLhyphen"/>ther Releaſes and Diſcharges as their ſeuerall Caſes ſhall require. But vpon their refuſall or wilfull neglect of this His Maieſties intended Grace (by not ac<g ref="char:EOLhyphen"/>cepting the ſame within the time limited) the Commiſſioners to ſell any of the Premiſſes to ſuch others as ſhall bee Suitors for the ſame. And for the ſurroun<g ref="char:EOLhyphen"/>ded Grounds and ſuch like where there is no preſent poſſeſſors, the Commiſſio<g ref="char:EOLhyphen"/>ners to ſell thoſe Lands to ſuch as will Compound for the ſame.</p>
+            <p>And where the Tenure appeareth vpon Record, the former Tenure is to bee re<g ref="char:EOLhyphen"/>ſerued: But where no Tenure appeareth vpon Record, there the Tenure is to be in Socage.</p>
+            <p>And <hi>Robert Tipper</hi> of Grayes Inne His Maieſties ſeruant is to attend the ſaid Com<g ref="char:EOLhyphen"/>miſſioners in the execution and proſecution of the ſaid Commiſſion.</p>
+            <closer>God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Robert Barker, Printer to the Kings moſt Excellent Maieſtie. M.DC.XXX.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
